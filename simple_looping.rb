@@ -63,7 +63,7 @@ def for_iterator(number_of_times)
   checkout = 1..number_of_times
   
   for k in checkout do 
-    puts 
+    puts phrase 
   end
   
 end
