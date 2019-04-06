@@ -62,7 +62,7 @@ def for_iterator(number_of_times)
   
   checkout = 1..number_of_times
   
-  for k in checkout
+  for k in checkout do 
     
   end
   
